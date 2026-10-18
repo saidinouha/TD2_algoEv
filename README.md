@@ -22,7 +22,7 @@ La recherche taboue est utilisée afin d'explorer efficacement les différentes 
 
 ---
 
-## 🏎️ Exercice 3 — Problème du voyageur de commerce
+## Exercice 3 — Problème du voyageur de commerce
 
 Le **problème du voyageur de commerce (TSP)** consiste à trouver un circuit de coût minimal permettant de visiter les huit villes une seule fois et de revenir à la ville de départ.
 

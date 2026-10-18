@@ -45,9 +45,14 @@ Deux métaheuristiques sont appliquées au problème :
 
 Pour le recuit simulé, le problème est étudié avec **cinq itérations** et une température décroissante.
 
+![screenshot](screenshots/ex3_1.png)
+...
+![screenshot](screenshots/ex3_2.png)
+![screenshot](screenshots/ex3_3.png)
+
 ### Hypothèses
 
 - Les liaisons absentes du tableau des coûts sont considérées comme **interdites**.
 - La matrice des coûts est supposée **symétrique**.
 
-ombinatoire**. le coût total de transport en respectant les capacités des dépôts et les demandes des magasins.
+ le coût total de transport en respectant les capacités des dépôts et les demandes des magasins.

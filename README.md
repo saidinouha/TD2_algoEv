@@ -30,13 +30,13 @@ Le **problème du voyageur de commerce (TSP)** consiste à trouver un circuit de
 
 La solution initiale imposée est :
 
-```text
+
 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8 → 1
-```
+
 
 Son coût initial est de :
 
-> **103 unités de coût**
+**103 unités de coût**
 
 Deux métaheuristiques sont appliquées au problème :
 

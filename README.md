@@ -1,5 +1,5 @@
 
-## 🚚 Exercice 2 — Problème de transport
+##  Exercice 2 — Problème de transport
 
 L'objectif est de **minimiser le coût total de transport** des conteneurs entre plusieurs dépôts et magasins tout en respectant les contraintes du problème.
 
